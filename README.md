@@ -5,9 +5,11 @@
 
 - 📫 How to reach me **jackgeorgeelia@gmail.com**
 
-- ⚡ Fun fact **I decided I wanted to do Comp Sci in 4th grade but didn't start learning until 9th.**
+- ⚡ Fun fact **I decided I wanted to do `Comp Sci` in 4th grade but didn't start learning until 9th.**
 
-- 🕶️ I'm interested in **AI, specifically: Machine Learning and Robotics**
+- 🕶️ I'm interested in **AI, specifically: `Machine Learning` and `Robotics`**
+
+- 👨‍🎓 I'm looking for ***AN INTERNSHIP***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
