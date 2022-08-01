@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Jack</h1>
 <h3 align="center">I'm a Senior in highschool. I want to go into Computer Science but I'm not sure exactly what I want to do, maybe AI?</h3>
 
-- 🌱 I’m currently learning **`JavaScript` and `Web Development`**
+- 🌱 I’m currently learning **`C++` and `SDL`**
 
 - 📫 How to reach me **jackgeorgeelia@gmail.com**
 
