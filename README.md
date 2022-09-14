@@ -28,5 +28,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=traptricker&show_icons=true&locale=en&layout=compact" alt="traptricker" />
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://github.com/Traptricker)
+
+![](https://komarev.com/ghpvc/?username=Traptricker&style=for-the-badge&color=red)
 
