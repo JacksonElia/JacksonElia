@@ -24,5 +24,6 @@
 
 <h3 align="left">Stats</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=traptricker&show_icons=true&locale=en&layout=compact" alt="traptricker" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=traptricker&show_icons=true&locale=en&layout=compact" alt="traptricker" />
 </p>
