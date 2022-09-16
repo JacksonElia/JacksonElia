@@ -12,21 +12,22 @@
   </a>
 </p>
 
+<h3 align="center">Some stuff about me</h3>
 
-- 🌱 I’m currently learning **`C++` and `SDL`**
-
-- 📫 How to reach me **jackgeorgeelia@gmail.com**
-
-- ⚡ Fun fact **I decided I wanted to do `Comp Sci` in 4th grade but didn't start learning until 9th.**
-
-- 🕶️ I'm interested in **AI, specifically: `Neural Networks`**
-
-<h3 align="left">Connect with me</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/13341425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13341425" height="30" width="40" /></a>
-<a href="https://instagram.com/jackgeorgeelia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jackgeorgeelia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/traptricker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="traptricker" height="30" width="40" /></a>
+<p align="center">
+ 🌱 I’m currently learning <b>C++</b> and <b>SDL</b>
+</p> 
+<p align="center">
+ 📫 You can reach me <b>jackgeorgeelia@gmail.com</b>
+ </p> 
+ <p align="center">
+ ⚡ I've been learning CS since <b>2019</b>
+ </p> 
+ <p align="center">
+ 🕶️ My favorite languages are <b>Python</b> & <b>Java</b>
 </p>
+
+<h3 align="center">Some Languages, Tools, and Frameworks I use 
 
 <h3 align="left">Languages</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
