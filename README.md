@@ -72,5 +72,5 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" height="200"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traptricker" alt="traptricker" height="200"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" height="220"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traptricker" alt="traptricker" height="220"/>
