@@ -61,9 +61,9 @@
   </a>
    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="jetbrains" height="30"/> 
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="jetbrains" height="30"/> 
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=orange" alt="jetbrains" height="30"/> 
   </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="jetbrains" height="30"/> 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=blue" alt="jetbrains" height="30"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="jetbrains" height="30"/> 
   </a>
@@ -72,5 +72,5 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" height="220"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traptricker" alt="traptricker" height="220"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=traptricker&" alt="traptricker" height="225"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traptricker" alt="traptricker" height="225"/>
