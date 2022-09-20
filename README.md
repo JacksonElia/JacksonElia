@@ -32,7 +32,7 @@
  🕶️ My favorite languages are <b>Python</b> & <b>Java</b>
 </p>
 
-<br/><br/>
+<br/>
 
 <h2 align="center">Some Languages, Tools, and Frameworks I use</h2>
 
