@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Jack</h1>
 <h3 align="center">I'm a Senior in highschool. I want to go into Computer Science but I'm not sure exactly what I want to do, maybe AI?</h3>
 <p align="center">
-  <a href="https://traptricker.github.io/">
+  <a href="https://jacksonelia.github.io/">
     <img align="center"src="https://img.shields.io/badge/-%20My%20Website-red?style=for-the-badge&logoWidth=20&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAABblBMVEVHcEz9+/v9/Pyjo6P6+vr////5+Pj7+/tWVlZUVFT++/v////e3Nz////ceIrh4ODq5eJbW1vbinnVnKHDbn////9SU1OaamvThXy1s7SlcICQaHL////Mt67v1sygXl391MT///9mZmaEhIT99/i1eotFRka+f5Lu7u7KgYbglZ/pvMRjZGT9/f3gvbju0My/eXfDg2/QobHBwcFzdHS9gnj///60lpXvp7Tz1dueen+6iJH939L87OP///8AAAAWBwgJAgLNMU9WHhrHME4wCxJMGhldIR5tJDkNBAKYPiC/NUSuLEdAExzLOEh8MUk6Fg6WO1mdPjeNOVaiS0LERzevQEdaGCaCIjaDMCYQEBAlDRUKCwt0Jz6hQiQhDQWgJz40FRqSKTIpFx2UKEDFTF+lLEaENU6dKUKBLyXLSDmFSlVhJz17LSStOE9iGSFmKD2NNCx+JDuTODDAP1LHWGyJOzGdP1+YKULUN1V3Y5t8AAAAP3RSTlMAS0PLRhpBSPr5Tgd5CvmPafr63/oQ+fj4s/n6A8y0/bsi9eJS+/76WPrdwPUpvcf3+Ny47vgm29yF7eCafykQpJi7AAABO0lEQVQoz33SVXPCUBAF4JSgxSlFitbdXW8SIEGDFXen7vbvm7xByOY83m925uydxbDRnHg9HhzHD7cx0SiPM9+tctUsF2eZgaLaCNkg3msnCIQ0ENtfEqQEW+PxBMxyV6FFkEijAni/Xq9HGzaAVQY2lmqA06q59xpXHeZw7bUC8pQ9EOIXg9gSjSCE1BCvprOPEryez2dokKct97ncHczLYSJCwmygihLVlqyFkATrHnhFZnGe3Xxu8r6gHH/Xm5R6To2uMM0dC1qcH2fFjGPHaNx1fLyVSk9E2akV8Ebss/fVY1k2xtCRFRMmnI73+8Phb7dbrKAqrhDywU86nc0OBslksrO1JqysOGUYJsCFThFqnXuCz/4oKsil2TnSaScW1p5f+m65+C6cMrEPcd+Yrvx+7zW//mj+AU8OQPktNdELAAAAAElFTkSuQmCC" height="30"/>
   </a>
   <a href="https://stackoverflow.com/users/13341425/jackelia?tab=profile">
