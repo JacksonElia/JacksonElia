@@ -71,6 +71,8 @@
   </a>
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="jetbrains" height="30"/> 
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="jetbrains" height="30"/> 
+  </a>
 </p>
 
 <h3 align="left">Stats</h3>
