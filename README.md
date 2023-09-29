@@ -78,5 +78,5 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonelia&" alt="jacksonelia" height="222"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksonelia" alt="jacksonelia" height="222"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonelia" alt="jacksonelia" height="222"/>
