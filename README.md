@@ -80,5 +80,5 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<img width="60%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JacksonElia" alt="GitHub Streak"/>
-<img width="30%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonelia" alt="jacksonelia"/>
+<img width="67.5%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JacksonElia" alt="GitHub Streak"/>
+<img width="28.5%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonelia" alt="jacksonelia"/>
