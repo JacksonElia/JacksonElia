@@ -72,7 +72,7 @@
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=black&color=black&labelColor=orange" alt="jetbrains" height="30"/> 
   </a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white&labelColor=springgreen" alt="jetbrains" height="30"/> 
+  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=black&labelColor=springgreen" alt="jetbrains" height="30"/> 
   </a>
   <a href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=blue" alt="jetbrains" height="30"/> 
   </a>
