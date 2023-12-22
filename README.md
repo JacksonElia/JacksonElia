@@ -26,7 +26,7 @@
  🌱 I’m currently learning <b>Rust</b>
 </p> 
 <p align="center">
- 📫 You can reach me <b>jackgeorgeelia@gmail.com</b>
+ 📫 You can reach me at <b>jackgeorgeelia@gmail.com</b>
  </p> 
  <p align="center">
  ⚡ I've been learning CS since <b>2019</b>
