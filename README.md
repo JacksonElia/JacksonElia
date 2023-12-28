@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/jack-elia-a982961b6/">
     <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img align="center" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" height="30"/>
-  </a>
+  </a> -->
    <a href="mailto:jackgeorgeelia@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="counter" height="30">
   </a>
