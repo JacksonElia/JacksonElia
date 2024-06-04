@@ -81,9 +81,9 @@
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="jetbrains" height="30"/> 
   </a>
-  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="jetbrains" height="30"/> 
+  <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="xcode" height="30"/> 
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="jetbrains" height="30"/> 
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" height="30"/> 
   </a>
 </p>
 
