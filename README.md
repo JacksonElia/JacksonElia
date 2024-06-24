@@ -23,7 +23,7 @@
 <h2 align="center">Some stuff about me</h2>
 
 <p align="center">
- 🌱 I’m currently learning <b>React</b>
+ 🌱 I’m currently learning <b>ROS</b>
 </p> 
 <p align="center">
  📫 You can reach me at <b>jackgeorgeelia@gmail.com</b>
