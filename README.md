@@ -32,7 +32,7 @@
  ⚡ I've been learning CS since <b>2019</b>
  </p> 
  <p align="center">
- 🕶️ My favorite languages are <b>C</b> & <b>Java</b>
+ 🕶️ My favorite languages are <b>C</b> & <b>C#</b>
 </p>
 
 <br/>
