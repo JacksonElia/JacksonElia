@@ -86,5 +86,7 @@
 </p>
 
 <h3 align="left">Stats</h3>
-<img width="67%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JacksonElia" alt="GitHub Streak"/>
-<img width="28%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonelia" alt="jacksonelia"/>
+<!-- <img width="67%" align="left" src="https://github-readme-streak-stats.herokuapp.com?user=JacksonElia" alt="GitHub Streak"/>
+<img width="28%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonelia" alt="jacksonelia"/> -->
+
+[![JacksonElia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksonelia)](https://github.com/jacksonelia/github-readme-stats)
